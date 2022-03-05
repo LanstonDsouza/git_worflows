@@ -9,5 +9,3 @@ topics to learn
 - branches
 - markdown
 - merging coding base
-
-
